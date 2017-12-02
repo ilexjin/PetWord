@@ -1,0 +1,51 @@
+﻿48:go off:动?身
+53:unlikely:不可能
+58:properly:合适地，适当地
+11:fracture:?骨折
+32:be injured:受伤
+46:lose interest:失去兴趣
+52:essential:必要的，重要的
+45:be disturbed:被打扰
+65:look forward to:期待
+49:well-deserved:受之?无愧的
+51:organized:有组织的，有条理的
+34:describe yourself:描述?自?己
+72:manage to do:try to do successfully
+7:lung cancer:肺癌
+70:be mad about something:be crazy about sth
+64:take extra effort:付出额外的努?力
+44:reduce stress level:缓解压?力
+68:perfect way to go:the best way to go
+29:prescription:处?方，药?方
+67:minimum 30 minutes:at least 30 minutes
+12:injection:注射
+8:operation:?手术
+33:put on weight:增肥
+41:injure ankle or knee:伤到踝关节或膝盖
+75:on your own:by yourself
+22:temperature:体温
+17:challenge:挑战
+36:hire a bike:租?车
+14:sprain:扭伤
+61:out of breath:喘不过?气来
+69:missed the chance:lose theopportunity
+55:active:积极的，主动的
+26:chemist:药剂师
+73:for instance:for example
+66:as little as possible:the less the better
+43:damage health:损害健康
+54:I think you are absolutely wrong:I don’t agree at all
+39:personality:性格
+43:sauna:桑拿浴，蒸汽浴
+53:I’m not so keen on that:I don’t quite fancy that
+50:frightening:令?人害怕的
+40:character:个性
+25:football pitch:?足球场
+32:track suit:?田径服
+36:coach:教练
+51:confident:?自信的
+31:step machine:跑步机
+30:stick:棍，棒
+10:hockey:曲棍球
+5:snowboarding:单板滑雪
+
